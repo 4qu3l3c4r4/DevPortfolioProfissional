@@ -105,7 +105,7 @@ If you wish to have a sticky (fixed) header, you simply need to add a class of `
 ```HTML
 <header class="sticky">
     <!-- Header content -->
-</header>
+</header> 
 ```
 
 ### Lead Section
